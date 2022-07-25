@@ -36,7 +36,7 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -54,32 +54,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['917561852787'] //ur owner number
+global.ownername = "⚡DREAM GUY FLASH⚡" //ur owner name
+global.ytname = "YT: Flash" //ur yt chanel name
+global.socialm = "GitHub: FLASHGIT" //ur github or insta name
+global.location = "India" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
+global.owner = ['917561852787']
+global.ownertag = '917561852787' //ur tag number
+global.botname = '𝛪𝑇𝑆 𝛭𝛯 𝐹𝐿𝛥𝑆𝛨 𝑆𝛯𝑅' //ur bot name
+global.linkz = "" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.packname = "MADE BY \n\n\n\n\n\n\n\n\n\n\n𝛪𝑇'𝑆 𝛭𝛯 𝐹𝐿𝛥𝑆𝛨 𝑆𝛯𝑅 " //ur sticker watermark packname
+global.author = "⚡Dream Guy FLASH⚡" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync(".https://i.imgur.com/Foxx3lh.jpeg") //ur thumb pic
+global.log0 = fs.readFileSync(".https://i.imgur.com/Foxx3lh.jpeg") //ur logo pic
+global.err4r = fs.readFileSync(".https://i.imgur.com/Foxx3lh.jpeg") //ur error pic
+global.thumb = fs.readFileSync(".https://i.imgur.com/Foxx3lh.jpegg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = [''] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
